@@ -51,6 +51,7 @@ The full form of an ARM is an advanced reduced instruction set computer (RISC) m
 
 
 ## STM 32 CUBE PROGRAM :
+```
 #include "main.h"
 void SystemClock_Config(void);
 static void MX_GPIO_Init(void);
@@ -118,7 +119,7 @@ void assert_failed(uint8_t *file, uint32_t line)
 #endif 
 
 
-
+```
 ## Output  :
 ### LED OFF:
  ![WhatsApp Image 2025-04-25 at 11 23 45_1a31b3d7](https://github.com/user-attachments/assets/8ff5becb-a235-41ad-9473-c702704d75c5)
