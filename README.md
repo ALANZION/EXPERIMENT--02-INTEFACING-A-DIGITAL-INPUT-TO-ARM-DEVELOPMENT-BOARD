@@ -120,10 +120,12 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 
 ## Output  :
+### LED OFF:
  ![WhatsApp Image 2025-04-25 at 11 23 45_1a31b3d7](https://github.com/user-attachments/assets/8ff5becb-a235-41ad-9473-c702704d75c5)
+ ### LED ON:
 ![WhatsApp Image 2025-04-25 at 11 23 45_92a5dd27](https://github.com/user-attachments/assets/f2941475-6610-4c34-b7c4-09c12033fa11)
 
-## layout of the circuit 
+
  
  
 ## Result :
